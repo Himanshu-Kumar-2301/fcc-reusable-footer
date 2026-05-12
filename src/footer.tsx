@@ -1,4 +1,4 @@
-const footer = () => {
+const Footer = () => {
   return (
     <footer>
       <ul className="list-1">
@@ -35,4 +35,4 @@ const footer = () => {
   );
 };
 
-export default footer;
+export default Footer;
